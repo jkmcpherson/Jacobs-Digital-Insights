@@ -1,5 +1,5 @@
 ---
-title: "Jacob with the Digital Insights"
+title: "Jacob's Digital Insights"
 author: "Jacob McPherson"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
